@@ -51,7 +51,6 @@ A Flutter-based cross-platform app for JIIT Noida students:
 - Reduced deployment downtime by 30% through CI/CD pipeline implementation.
 - Trained 100 freshers in .NET and cloud technologies.
 - Led the development of an in-house device farm, saving $150K per quarter.
-- 
 ---
 
 ## 📫 Let's Connect
